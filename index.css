@@ -20,3 +20,9 @@ h2 {
 #Instagram {
 	background-color: #0267e2;
 }
+
+img {
+	margin: 3em auto;
+	width: 5em;
+	border-radius: 1em;
+}
