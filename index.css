@@ -1,6 +1,11 @@
 h2 {
 	color: black;
 	font-family: Ubuntu;
-	margin: 3em, auto;
+	margin: 3em auto;
+	text-align: center;
+	padding: 1em;
+	width: 5em;
+	border-radius: .5em;
+	opacity: .9;
 	text-decoration: none;
 }
