@@ -1,7 +1,6 @@
 a {
 	color: white;
 	font-family: Ubuntu;
-	margin: 3em auto;
 	text-align: center;
 	padding: 1em;
 	width: 5em;
@@ -19,7 +18,6 @@ a {
 }
 
 img {
-	margin: 3em auto;
 	width: 7em;
 	border-radius: 1em;
 }
