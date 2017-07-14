@@ -1,13 +1,14 @@
+a {
+	text-decoration: none;
+}
+
 h2 {
 	color: white;
 	font-family: Ubuntu;
 	text-align: center;
 	padding: 1em;
-	width: 5em;
-	border-radius: .5em;
 	opacity: .9;
-	text-decoration: none;
-	margin: 3em auto;
+	margin: 0em auto;
 }
 
 #Twitter {
