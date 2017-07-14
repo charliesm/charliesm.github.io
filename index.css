@@ -7,8 +7,7 @@ h2 {
 	font-family: Ubuntu;
 	text-align: center;
 	padding: 1em;
-	opacity: .9;
-	margin: 0em auto;
+	width: 100%
 }
 
 #Twitter {
@@ -20,6 +19,5 @@ h2 {
 }
 
 img {
-	width: 7em;
-	border-radius: 1em;
+	width: 100%;
 }
